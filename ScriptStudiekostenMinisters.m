@@ -77,8 +77,3 @@ A.beurs = sum(beurs_jaar);
 
 A.totalekosten = A.collegegeld + A.huur + A.boete - A.beurs;
 disp(A.totalekosten)
-
-
-
-
-
